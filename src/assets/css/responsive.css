@@ -1,0 +1,719 @@
+@media (max-width: 1440px) {
+    .electronics_slider_content h2 {
+        line-height: 60px;
+    }
+
+    .product_var_one_text_center {
+        left: 30px;
+        -moz-transform: translateY(-8%);
+        -webkit-transform: translateY(-8%);
+        transform: translateY(-8%);
+        width: 80%;
+    }
+
+    #banner_one {
+        padding: 150px 0;
+        background-position: center;
+    }
+
+    .main-menu nav>ul>li>a {
+        padding: 25px 20px;
+    }
+
+    .mobile-menu-logo .logo {
+        width: 65%;
+        overflow: hidden;
+    }
+
+    .cookie-bar p {
+        font-size: 14px;
+    }
+
+    .drodo-nav .navbar .navbar-nav .nav-item a {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    #jewellry_banner {
+        background-position: center;
+    }
+
+    .jewellry_banner_text h1 {
+        font-size: 58px;
+        line-height: 70px;
+    }
+
+    .paralex_text h2 {
+        font-size: 50px;
+    }
+
+}
+
+@media (max-width: 1199px) {
+    .paralex_text h2 {
+        font-size: 40px;
+        padding: 20px 0;
+    }
+
+    .paralex_text p {
+        padding: 0 50px;
+        padding-bottom: 30px;
+    }
+
+    .banner_text_one h1 {
+        font-size: 115px;
+        line-height: 110px;
+    }
+
+    #countdown_two li {
+        margin-left: 20px;
+    }
+}
+
+@media (max-width: 992px) {
+    #cart_area_three .coupon_code {
+        margin-top: 30px;
+    }
+
+    .baby_blog_card {
+        padding-bottom: 30px;
+    }
+
+    .baby_offer_one_img {
+        padding-bottom: 30px;
+    }
+
+    .jewel_serv_card {
+        padding-bottom: 30px;
+    }
+
+    .jewellary_blog_card {
+        padding-bottom: 30px;
+    }
+
+    .theme-invoice-4 .invoice-wrapper .invoice-footer ul li h4 {
+        line-height: 24px;
+        font-size: 14px;
+    }
+
+    .theme-invoice-4 .invoice-wrapper .invoice-footer ul li i {
+        margin-right: 7px;
+        font-size: 16px;
+    }
+
+    .furniture_bottom_wrapper {
+        margin-bottom: 30px;
+    }
+
+    #shop_main_area .row:nth-child(2) .col-lg-12:nth-child(2) .product_wrappers_list {
+        margin-top: 30px;
+    }
+
+    .product_wrappers_list .content .product_para_top {
+        padding-top: 20px;
+    }
+
+    .modal_product_content_one {
+        padding-top: 20px;
+    }
+
+    .product_wrappers_list {
+        padding: 20px 20px;
+    }
+
+    .footer_one_widget {
+        padding-top: 25px;
+    }
+
+    #special_offer_one {
+        background-position: 80%;
+        background-repeat: no-repeat;
+    }
+
+    .offer_time_flex {
+        display: inherit;
+    }
+
+    .offer_timer_text {
+        padding-left: 0px;
+        padding-top: 30px;
+    }
+
+    #countdown ul {
+        display: flex;
+    }
+
+    #countdown ul li {
+        margin-top: 0;
+        margin-left: 25px;
+    }
+
+    #countdown ul li:first-child {
+        margin-left: 0;
+    }
+
+    #offer_timer_one {
+        padding: 80px 0;
+        background-position: 95%;
+    }
+
+    #product_variation_one .container-fluid .row .col-lg-4:last-child {
+        display: none;
+    }
+
+    .banner_text_one a {
+        margin-top: 20px;
+    }
+
+    .product_shot {
+        justify-content: flex-start;
+    }
+
+    .product_filter {
+        padding-bottom: 25px;
+    }
+
+    #related_product .product_wrappers_one {
+        padding-bottom: 30px;
+    }
+
+    .about_top_left_content {
+        padding-top: 30px;
+    }
+
+    .service_promo_single_item {
+        height: auto;
+        margin-bottom: 30px;
+    }
+
+    .account_setting {
+        padding-top: 30px;
+        padding-left: 0;
+    }
+
+    #countdown_two li {
+        margin-left: 8px;
+    }
+
+    #furniture_story {
+        padding: 100px 0;
+    }
+
+    .right_block {
+        position: inherit;
+        ;
+        width: 100%;
+        background: #fff;
+        padding: 30px 0 0 0;
+    }
+
+    .right_side_content p {
+        color: var(--paragraph-color);
+    }
+
+    .right_side_content h5 {
+        color: var(--heading-color);
+    }
+
+    .right_side_content a {
+        color: var(--heading-color);
+    }
+
+    .vendor_top_box {
+        margin-top: 30px;
+    }
+
+    #countdown_two {
+        padding-top: 15px;
+    }
+
+    .banner_last_img {
+        padding-top: 20px;
+    }
+
+    .grocery_banner_img {
+        padding-top: 20px;
+    }
+
+    .display_nones_tabs {
+        display: none;
+    }
+
+    .grocery_cta_content h2 {
+        line-height: 30px;
+        font-size: 24px;
+    }
+
+    .grcery_support_boxed {
+        margin-top: 30px;
+    }
+
+    .discount_thumb img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .theme-modal .modal-dialog .modal-content .modal-body .offer_modal_left {
+        padding: 40px 40px;
+    }
+
+    #pharmacy_banner {
+        padding: 0px 0 0 0;
+        position: relative;
+    }
+
+    .jewellary_offer_topimg {
+        padding-bottom: 30px;
+    }
+
+    .jewellry_banner_text h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .paralex_text h2 {
+        font-size: 40px;
+        padding: 20px 0;
+    }
+
+    .paralex_text p {
+        padding: 0 105px;
+        padding-bottom: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .top_header_left {
+        text-align: center;
+    }
+
+    .right_list_fix {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 10px;
+    }
+
+    .baby_offer_banner_text h2 {
+        padding-bottom: 50px;
+        font-size: 40px;
+    }
+
+    #paralex_area {
+        padding: 100px 0;
+    }
+
+    .tabs_left_button .nav-tabs {
+        border-bottom: none;
+        width: 100%;
+        justify-content: center;
+        position: inherit;
+        right: 0;
+        top: 0;
+        padding-bottom: 30px;
+    }
+
+    .grocery_cta_content .input-group {
+        width: 92%;
+        margin: 0 auto;
+    }
+
+    .grocery_cta_content {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .grocery_cat_wrapper {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .grocery_cta {
+        display: none;
+    }
+
+    .grocery_todays_area_left {
+        margin-bottom: 30px;
+    }
+
+    .top-header-menu {
+        text-align: center;
+    }
+
+    .top-header-contact-info {
+        text-align: center;
+    }
+
+    .offer_time_img_two {
+        display: none;
+    }
+
+    .image-input label {
+        width: 50%;
+    }
+
+    .invoice-wrapper .authorise-sign {
+        position: relative;
+        text-align: center;
+    }
+
+    .invoice-wrapper .buttons {
+        padding-top: 20px;
+    }
+
+    .theme-invoice-1 .invoice-header .detail-bottom ul {
+        display: block;
+    }
+
+    .theme-invoice-4 .invoice-wrapper .invoice-footer ul {
+        display: block;
+        margin-bottom: -20px;
+    }
+
+    .theme-invoice-4 .invoice-wrapper .invoice-footer ul li {
+        margin-bottom: 20px;
+    }
+
+    .theme-invoice-4 .title-sec .title {
+        position: relative;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .blog_post_wrapper {
+        padding-bottom: 30px;
+    }
+
+    .cookie-bar {
+        display: inherit;
+        text-align: center;
+        bottom: -107px;
+    }
+
+    .row .col-lg-4 .product_variation_one_boxed:last-child {
+        margin-bottom: 0px;
+    }
+
+    .row .col-lg-4:first-child .product_variation_one_boxed:last-child {
+        margin-bottom: 30px;
+    }
+
+    #blog_area_one .container .row .col-lg-4:last-child .blog_one_item {
+        padding-top: 30px;
+    }
+
+    #banner_one {
+        padding: 150px 0;
+        background-position: 79%;
+    }
+
+    .offcanvas-cart-action-button {
+        display: inherit;
+    }
+
+    .offcanvas-cart-action-button li {
+        margin-bottom: 15px;
+    }
+
+    .banner_text_one {
+        position: relative;
+        z-index: 9;
+    }
+
+    .cookie-bar p {
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .offer_time_two_Content {
+        text-align: center;
+    }
+
+    #countdown_two ul {
+        justify-content: center;
+    }
+
+    #offer_timer_two {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    #countdown_two {
+        padding-bottom: 30px;
+    }
+
+    .offer_time_two_Content img {
+        width: 100%;
+    }
+
+    .pharmacy_banner_bottom_img {
+        padding-bottom: 20px;
+    }
+
+    .pharmacy_banner_bottom_img img {
+        width: 100%;
+    }
+
+    .newsleetre_modal.modal-body .offer_modal_left {
+        padding: 25px 35px;
+    }
+}
+
+@media (max-width: 576px) {
+    .baby_banner_bottom_img {
+        padding-bottom: 30px;
+    }
+
+    .paralex_text p {
+        padding: 0 0px;
+        padding-bottom: 30px;
+    }
+
+    .jewellry_banner_text h1 {
+        font-size: 40px;
+        line-height: 53px;
+    }
+
+    .view_all_arae {
+        position: inherit;
+        text-align: right;
+        top: 0;
+        padding-bottom: 30px;
+    }
+
+    .slider_button_style .owl-nav {
+        top: 0;
+        position: inherit;
+    }
+
+    .image-input label {
+        width: 70%;
+    }
+
+    .furniture_slider_content h2 {
+        padding: 22px 0;
+        font-size: 40px;
+    }
+
+    .cookie-bar {
+        bottom: -150px;
+    }
+
+    .account_setting_heading h2 {
+        font-size: 24px;
+    }
+
+    .hero_img img {
+        position: absolute;
+        top: -377px;
+        right: 0;
+    }
+
+    .comment_info .children {
+        margin-left: 20px;
+    }
+
+    .comment_user img {
+        height: auto;
+        max-width: 55px;
+    }
+
+    #countdown_soon ul li:first-child {
+        margin-left: auto;
+    }
+
+    #countdown_soon ul li {
+        width: 70px;
+        font-size: 14px;
+        margin: 0 auto;
+    }
+
+    #countdown_soon ul li span {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    .erorr_wrapper h1 {
+        font-size: 100px;
+        line-height: 60px;
+    }
+
+    .empaty_cart_area h2 {
+        font-size: 28px;
+    }
+
+    .empaty_cart_area h3 {
+        padding-top: 5px;
+        font-size: 18px;
+    }
+
+    .row .col-lg-3:last-child .service_promo_single_item {
+        margin-bottom: 0;
+    }
+
+    .product_count_one {
+        display: inherit;
+    }
+
+    .product_count_one a {
+        margin-top: 20px;
+    }
+
+    #footer_one .footer_left_side p {
+        padding-right: 0px;
+    }
+
+    .product_var_one_text {
+        left: 10px;
+    }
+
+    .product_var_one_text_center {
+        left: 10px;
+    }
+
+    .banner_text_one h1 {
+        font-size: 68px;
+        line-height: 76px;
+    }
+
+    #blog_area_one .container .row .col-lg-4 .blog_one_item {
+        padding-top: 30px;
+    }
+
+    #blog_area_one .container .row .col-lg-4:first-child .blog_one_item {
+        padding-top: 0px;
+    }
+
+    .slider_arrows_one .owl-nav {
+        position: inherit;
+        padding-top: 20px;
+        width: 100%;
+        text-align: center;
+        top: 0;
+    }
+
+    .mobile-menu-logo .logo {
+        width: 200px;
+        overflow: hidden;
+    }
+
+    .copyright_left {
+        text-align: center;
+    }
+
+    #copyright_one .copyright_right {
+        text-align: center;
+    }
+
+    .ptb-100 {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .pt-100 {
+        padding-top: 60px;
+    }
+
+    #special_offer_one {
+        background-position: 40%;
+        background-repeat: no-repeat;
+        padding: 60px 0;
+    }
+
+    #sizes_input .custom_boxed {
+        margin-right: 8px;
+    }
+
+    #related_product.pb-100 {
+        padding-bottom: 30px !important;
+    }
+
+    .pb-100 {
+        padding-bottom: 60px;
+    }
+
+    .center_heading h2 {
+        font-size: 30px;
+    }
+
+    .center_heading p {
+        padding-top: 5px;
+    }
+
+    .offer_timer_text h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .background_bg {
+        background-position: 65% 100%;
+        background-size: cover;
+    }
+}
+
+@media (max-width: 480px) {
+    .drodo-responsive-nav .logo {
+        position: relative;
+        width: 39%;
+        z-index: 999;
+        top: 11px;
+    }
+
+    #countdown_two ul {
+        display: inline-table;
+    }
+
+    #countdown_two li {
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+
+    .furniture_slider {
+        padding: 100px 0;
+    }
+
+    .product_filter {
+        padding-bottom: 0px;
+    }
+
+    .product_shot {
+        display: inherit;
+    }
+
+    .customs_selects {
+        padding: 15px 0;
+    }
+
+    .product_shot_view ul li:first-child {
+        padding-left: 0px;
+    }
+
+    .mobile-menu-logo .logo {
+        width: 150px;
+        overflow: hidden;
+    }
+
+    .header-action-link li {
+        margin-right: 15px;
+    }
+
+    .btn_sm {
+        padding: 10px 12px;
+    }
+}
+
+@media (max-width: 361px) {
+    .mobile-menu-logo .logo {
+        width: 100px;
+        overflow: hidden;
+    }
+
+    .header-action-link li {
+        margin-right: 10px;
+    }
+
+    .btn_sm {
+        padding: 10px 5px;
+    }
+}
+
