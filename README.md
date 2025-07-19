@@ -46,7 +46,7 @@ The app is built with **React**, **Redux**, and **TailwindCSS**, featuring:
 
 ## 🛠️ Built With
 
-### ⚙️ Technologies
+### 📚 Technologies
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)  
@@ -65,7 +65,7 @@ The app is built with **React**, **Redux**, and **TailwindCSS**, featuring:
 
 ## 📁 Folder Structure
 
-```plaintext
+```bash
 src/
 ├── App.js
 ├── index.js
@@ -125,32 +125,32 @@ src/
 │   ├── Contact.js
 │   ├── About.js
 │   └── …more
+```
 
 ---
 
-💻 Installation
+## 💻 Installation
 
-1️⃣ Clone the repository:
-
+```bash
+# Clone the repository
 git clone https://github.com/UrstrulyBhavana/FashionHive.git
 cd FashionHive
 
-2️⃣ Install dependencies:
-
+# Install dependencies
 npm install
 
-3️⃣ Start development server:
-
+# Start development
 npm start
 
-4️⃣ Build for production:
-
+# Build for production
 npm run build
+```
 
 ---
 
-🔍 Project Demonstration
+## 📝 Project Demonstration
 
+```
 How it Works:
 
 👗 Customer Journey:
@@ -182,6 +182,7 @@ Email notifications keep customers informed with branded templates.
 📱 Responsive & Multilingual:
 
 The app adapts seamlessly to all screen sizes and is ready for multiple languages.
+```
 
 ---
 
@@ -189,17 +190,25 @@ The app adapts seamlessly to all screen sizes and is ready for multiple language
 
 Mocked Data: Static/mock data currently powers the app for demo.
 
+---
+
 🙋‍♀️ Author
 
 Linga Bhavana – Frontend Developer
 GitHub | urstrulybhavana1432@gmail.com
 
-📬 Contact
+---
 
-For queries or suggestions:
-📧 Email: urstrulybhavana1432@gmail.com
-🐙 GitHub: UrstrulyBhavana
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+---
 
 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
