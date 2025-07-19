@@ -155,33 +155,33 @@ How it Works:
 
 👗 Customer Journey:
 
-Customers log in and browse Fashion or Furniture categories with dynamic hover previews.
+✔️ Customers log in and browse Fashion or Furniture categories with dynamic hover previews.
 
-Add products to cart, wishlist, or compare with real‑time updates.
+✔️ Add products to cart, wishlist, or compare with real‑time updates.
 
-View detailed product pages and related recommendations.
+✔️ View detailed product pages and related recommendations.
 
-Checkout securely by providing delivery details and confirming the order.
+✔️ Checkout securely by providing delivery details and confirming the order.
 
-Track order status, download invoices, and manage profile via Customer Dashboard.
+✔️ Track order status, download invoices, and manage profile via Customer Dashboard.
 
 📊 Vendor Journey:
 
-Vendors log in to access their dashboard.
+✔️ Vendors log in to access their dashboard.
 
-Add or edit products, manage incoming orders, and monitor sales analytics.
+✔️ Add or edit products, manage incoming orders, and monitor sales analytics.
 
-Ensure smooth operations and updates through a dedicated management panel.
+✔️ Ensure smooth operations and updates through a dedicated management panel.
 
 🖨️ Invoices & Email Templates:
 
-Every order generates a professionally styled printable invoice.
+✔️ Every order generates a professionally styled printable invoice.
 
-Email notifications keep customers informed with branded templates.
+✔️ Email notifications keep customers informed with branded templates.
 
 📱 Responsive & Multilingual:
 
-The app adapts seamlessly to all screen sizes and is ready for multiple languages.
+✔️ The app adapts seamlessly to all screen sizes and is ready for multiple languages.
 ```
 
 ---
@@ -195,6 +195,7 @@ Mocked Data: Static/mock data currently powers the app for demo.
 🙋‍♀️ Author
 
 Linga Bhavana – Frontend Developer
+
 GitHub | urstrulybhavana1432@gmail.com
 
 ---
