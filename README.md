@@ -126,6 +126,7 @@ src/
 │   ├── About.js
 │   └── …more
 
+---
 
 💻 Installation
 
@@ -196,11 +197,9 @@ GitHub | urstrulybhavana1432@gmail.com
 📬 Contact
 
 For queries or suggestions:
-
 📧 Email: urstrulybhavana1432@gmail.com
 🐙 GitHub: UrstrulyBhavana
 
 📜 License
-
 This project is licensed under the MIT License. See the LICENSE file for details.
 
