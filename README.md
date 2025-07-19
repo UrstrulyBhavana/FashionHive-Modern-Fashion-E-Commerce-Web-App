@@ -14,40 +14,39 @@
 
 ## 🧾 Overview
 
-**FashionHive** is a modern and elegant e‑commerce platform for **fashion & furniture retail**, offering a seamless shopping experience and robust dashboards for both customers and vendors. Built with **React**, **Redux**, and **TailwindCSS**, it features responsive layouts, dynamic UI interactions, and clean, professional design.
+ **FashionHive** is a modern and elegant e‑commerce platform designed for **Fashion** and **Furniture** retail.  
+It delivers a seamless shopping experience for customers and robust management dashboards for vendors — wrapped in a professional, responsive layouts.  
 
-The app includes:  
-🛍️ Shopping cart, wishlist, compare  
-🖼️ Product details with hover previews  
-💳 Checkout flow  
-📋 Customer and Vendor Dashboards  
-🧾 Invoices & ✉️ beautifully styled Email Templates  
-
- A complete solution for online fashion businesses!
+The app is built with **React**, **Redux**, and **TailwindCSS**, featuring:
+- Dynamic product cards with hover previews
+- Wishlist, compare, quick view
+- Structured checkout flow with order success
+- Customer & Vendor dashboards
+- Professionally styled invoices & email templates
+- Fully responsive layouts and modern UX
 
 ---
 
 ## ✨ Features
 
-👥 **Authentication:** Separate login/signup for Customers and Vendors  
-🛍️ **Product Catalog:** Category‑wise listing, filtering, and dynamic product cards with hover previews  
-❤️ **Wishlist, Compare & Quick View:** Lightweight interactions for customer convenience  
-🛒 **Shopping Cart:** Add, update, and remove items with quantity tracking and subtotal calculation  
-💳 **Checkout Flow:** Structured form to capture delivery details and confirm orders  
-📦 **Order Success:** Clean summary page with order details and next steps  
-📋 **Customer Dashboard:** Manage profile, addresses, orders, invoices, and wishlist  
-📊 **Vendor Dashboard:** Add/edit products, view/manage orders, track sales analytics  
-🖨️ **Invoices:** Professionally styled printable invoices  
-✉️ **Email Templates:** Branded order confirmation and update emails  
-📱 **Responsive Design:** Optimized layouts for all devices  
-🎨 **TailwindCSS Styling:** Consistent, scalable, and modern UI components  
-✨ **Modern Animations & UX Enhancements**
+✅ **Authentication:** Separate login & signup for Customers and Vendors  
+✅ **Product Catalog:** Category‑wise listings, filtering, and hover previews  
+✅ **Wishlist, Compare & Quick View:** Convenient product actions  
+✅ **Cart Management:** Add/update/remove items, live subtotal updates  
+✅ **Checkout Flow:** Capture delivery details and confirm orders  
+✅ **Order Success & Tracking:** Order summary with printable invoices  
+✅ **Customer Dashboard:** Manage profile, orders, wishlist, invoices  
+✅ **Vendor Dashboard:** Add/edit products, process orders, track analytics  
+✅ **Invoices & Emails:** Beautiful printable invoices & email templates  
+✅ **Responsive & Multilingual:** Optimized for all devices and locales  
+✅ **TailwindCSS Styling:** Scalable, consistent UI components  
+✅ **Modern Animations & UX:** Smooth, engaging user interactions
 
 ---
 
 ## 🛠️ Built With
 
-### ⚙️ Technologies Used
+### ⚙️ Technologies
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)  
@@ -56,7 +55,7 @@ The app includes:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
-### 🧰 Tools Used
+### 🧰 Tools 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)  
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat-square)  
@@ -147,45 +146,43 @@ npm start
 
 npm run build
 
-
-🧩 Functionalities Recap
-
-✅ Customer browses products, filters by category, adds to cart/wishlist/compare.
-✅ View product details, related products, hover previews.
-✅ Checkout flow with delivery info & order confirmation.
-✅ Customer dashboard: Profile, orders, invoices, wishlist.
-✅ Vendor dashboard: Add/edit products, manage orders, view analytics.
-✅ Beautiful invoices and email notifications.
-✅ Responsive design with TailwindCSS.
+---
 
 🔍 Project Demonstration
 
 How it Works:
 
-👗 Shopping Experience:
-Customers explore Fashion and Furniture sections with category‑wise product listings and dynamic hover previews.
+👗 Customer Journey:
 
-🛒 Cart, Wishlist & Compare:
-Customers can add products to cart, wishlist, or compare — with live updates and quantity tracking.
+Customers log in and browse Fashion or Furniture categories with dynamic hover previews.
 
-📄 Product Details & Quick View:
-View detailed product pages with related suggestions and hover‑enabled quick previews.
+Add products to cart, wishlist, or compare with real‑time updates.
 
-💳 Checkout Process:
-Proceed through a structured checkout flow, providing delivery details and confirming the order.
+View detailed product pages and related recommendations.
 
-📋 Customer Dashboard:
-After login, customers can view and manage their orders, download printable invoices, and update account details or wishlist.
+Checkout securely by providing delivery details and confirming the order.
 
-📊 Vendor Dashboard:
-Vendors log in to manage their product catalog, process orders, and view sales analytics through a dedicated dashboard.
+Track order status, download invoices, and manage profile via Customer Dashboard.
 
-🧾 Invoices & Email Templates:
-Each order generates a professional, printable invoice and triggers beautifully styled email notifications.
+📊 Vendor Journey:
+
+Vendors log in to access their dashboard.
+
+Add or edit products, manage incoming orders, and monitor sales analytics.
+
+Ensure smooth operations and updates through a dedicated management panel.
+
+🖨️ Invoices & Email Templates:
+
+Every order generates a professionally styled printable invoice.
+
+Email notifications keep customers informed with branded templates.
 
 📱 Responsive & Multilingual:
-The entire experience is fully responsive and ready for multiple languages, enhancing accessibility for all users.
 
+The app adapts seamlessly to all screen sizes and is ready for multiple languages.
+
+---
 
 🔗 API Reference
 
@@ -194,7 +191,6 @@ Mocked Data: Static/mock data currently powers the app for demo.
 🙋‍♀️ Author
 
 Linga Bhavana – Frontend Developer
-
 GitHub | urstrulybhavana1432@gmail.com
 
 📬 Contact
