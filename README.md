@@ -8,7 +8,10 @@
 
 ## 📽️ Demo
 
-> Explore the key features of the **FashionHive App** in this walkthrough video or live link:  
+[![FashionHive Demo](https://img.youtube.com/vi/eLZQkdyPvgg/0.jpg)](https://youtu.be/eLZQkdyPvgg)
+
+
+> 🔗 Click the image above to watch the **21‑minute walkthrough video** of FashionHive on YouTube.
 
 ---
 
