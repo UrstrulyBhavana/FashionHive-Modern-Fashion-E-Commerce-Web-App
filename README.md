@@ -1,4 +1,5 @@
-# 👗 FashionHive 🛒 | Modern E‑Commerce Web Platform
+# 🛒 FashionHive — Modern Fashion & Furniture E‑Commerce Platform
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20by%20Bhavana-brightgreen?style=for-the-badge" alt="Made with Love by Bhavana" />
@@ -43,7 +44,9 @@ The app is built with **React**, **Redux**, and **TailwindCSS**, featuring:
 ✅ **Invoices & Emails:** Beautiful printable invoices & email templates  
 ✅ **Responsive & Multilingual:** Optimized for all devices and locales  
 ✅ **TailwindCSS Styling:** Scalable, consistent UI components  
-✅ **Modern Animations & UX:** Smooth, engaging user interactions
+✅ Modern Animations & UX: Smooth, engaging user interactions
+✅ Blogs & Lookbook: Editorial content and featured looks
+✅ Newsletter & Instagram Feed: Engagement components included
 
 ---
 
@@ -51,12 +54,14 @@ The app is built with **React**, **Redux**, and **TailwindCSS**, featuring:
 
 ### 📚 Technologies
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) 
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=flat-square) 
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=flat-square) 
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) 
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat-square) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
 
 ### 🧰 Tools 
 
@@ -185,6 +190,7 @@ How it Works:
 📱 Responsive & Multilingual:
 
 ✔️ The app adapts seamlessly to all screen sizes and is ready for multiple languages.
+
 ```
 
 ---
