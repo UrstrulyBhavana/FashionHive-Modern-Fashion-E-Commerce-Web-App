@@ -21,7 +21,7 @@
  **FashionHive** is a modern and elegant e‑commerce platform designed for **Fashion** and **Furniture** retail.  
 It delivers a seamless shopping experience for customers and robust management dashboards for vendors — wrapped in a professional, responsive layouts.  
 
-The app is built with **React**, **Redux**, and **TailwindCSS**, featuring:
+The app is built with **React**, **Redux**, and **SCSS/CSS**, featuring:
 - Dynamic product cards with hover previews
 - Wishlist, compare, quick view
 - Structured checkout flow with order success
@@ -215,7 +215,7 @@ How it Works:
 
 📱 Responsive & Multilingual:
 
-✔️ The app adapts seamlessly to all screen sizes and is ready for multiple languages.
+✔️ The app adapts seamlessly to all screen sizes.
 
 ```
 
