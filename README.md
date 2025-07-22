@@ -1,4 +1,5 @@
-# 🛍️ FashionHive — Modern E‑Commerce Platform for Fashion & Furniture
+# 🛍️ FashionHive — Modern, Multi‑Vendor E‑Commerce Platform | Fashion & Furniture
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20by%20Bhavana-brightgreen?style=for-the-badge" alt="Made with Love by Bhavana" />
