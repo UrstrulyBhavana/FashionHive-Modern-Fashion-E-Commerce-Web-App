@@ -1,5 +1,4 @@
-# 🛒 FashionHive — Modern Fashion & Furniture E‑Commerce Platform
-
+# 🛍️ FashionHive — Modern E‑Commerce Platform for Fashion & Furniture
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20by%20Bhavana-brightgreen?style=for-the-badge" alt="Made with Love by Bhavana" />
@@ -31,22 +30,48 @@ The app is built with **React**, **Redux**, and **TailwindCSS**, featuring:
 
 ---
 
-## ✨ Features
+## 🔷 Features & Functionalities
 
-✅ **Authentication:** Separate login & signup for Customers and Vendors  
-✅ **Product Catalog:** Category‑wise listings, filtering, and hover previews  
-✅ **Wishlist, Compare & Quick View:** Convenient product actions  
-✅ **Cart Management:** Add/update/remove items, live subtotal updates  
-✅ **Checkout Flow:** Capture delivery details and confirm orders  
-✅ **Order Success & Tracking:** Order summary with printable invoices  
-✅ **Customer Dashboard:** Manage profile, orders, wishlist, invoices  
-✅ **Vendor Dashboard:** Add/edit products, process orders, track analytics  
-✅ **Invoices & Emails:** Beautiful printable invoices & email templates  
-✅ **Responsive & Multilingual:** Optimized for all devices and locales  
-✅ **TailwindCSS Styling:** Scalable, consistent UI components  
-✅ Modern Animations & UX: Smooth, engaging user interactions
-✅ Blogs & Lookbook: Editorial content and featured looks
-✅ Newsletter & Instagram Feed: Engagement components included
+### 👗 Fashion Store & 🪑 Furniture Store
+- Category‑wise product browsing  
+- Featured banners & blog sections  
+- Instagram feed integration  
+
+### 🛍️ Shopping Experience
+- Product cards with hover effects & quick view  
+- Product detail pages with related products  
+- Add to Cart, Wishlist, Compare  
+- Empty cart & loader animations  
+- Checkout flow:  
+  - Billing information  
+  - Payment page  
+  - Order success & tracking  
+
+### 👤 Customer Dashboard
+- Profile management  
+- View & track orders  
+- Manage downloads & addresses  
+
+### 🛒 Vendor Dashboard
+- Add, edit, remove products  
+- Manage orders  
+- Dashboard analytics (charts & stats)  
+- Profile & settings  
+
+### 📚 Blogs & Lookbooks
+- Blog grid & list layouts  
+- Single blog pages with comments & related posts  
+- Lookbook showcase  
+
+### 📩 Emails & Invoices
+- Branded invoice template  
+- Three professional email templates  
+
+### 🌍 Others
+- Responsive design  
+- Newsletter subscription modal  
+- Privacy Policy, FAQs  
+- Coming Soon & 404 Error pages  
 
 ---
 
