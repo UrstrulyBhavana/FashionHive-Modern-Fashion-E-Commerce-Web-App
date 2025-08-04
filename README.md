@@ -179,7 +179,6 @@ npm start
 # Build for production
 npm run build
 ```
-
 ---
 
 ## 📝 Project Demonstration
@@ -218,7 +217,6 @@ How it Works:
 ✔️ The app adapts seamlessly to all screen sizes.
 
 ```
-
 ---
 
 🔗 API Reference
